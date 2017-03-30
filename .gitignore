@@ -1,0 +1,7 @@
+*.gi
+*.gi/*
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.ipynb_checkpoints/*
