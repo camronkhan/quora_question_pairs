@@ -25,3 +25,8 @@ test_id,is_duplicate
 2,0.9
 etc.
 ```
+
+## Bullet Points
+- one
+- two 
+- three
